@@ -2,6 +2,8 @@
 
 Example App to generate QR Code to use **React Native**.
 
+![](gif.gif)
+
 ## Package installation
 
 Install Yarn:
@@ -19,7 +21,6 @@ Run terminal code:
 
 ```
 $ react-native run-ios
-
 ```
 
 ## Run app in Android
